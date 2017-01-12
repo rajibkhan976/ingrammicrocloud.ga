@@ -1,0 +1,174 @@
+.tp-caption.viral1 {
+color:rgb(0, 0, 0);
+font-family:"Raleway";
+font-size:36px;
+font-weight:100;
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.viral2 {
+color:rgb(48, 118, 187);
+font-size:36px;
+font-weight:600;
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(68, 68, 68);
+border-style:none;
+}
+
+.tp-caption.viral3 {
+color:rgb(48, 118, 187);
+font-family:"Raleway";
+font-size:20px;
+font-weight:400;
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(68, 68, 68);
+border-style:none;
+}
+
+.tp-caption.viral6 {
+color:rgb(48, 118, 187);
+font-family:"Raleway";
+font-size:20px;
+font-weight:600;
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(68, 68, 68);
+border-style:none;
+}
+
+.tp-caption.viral4 {
+color:rgb(0, 0, 0);
+font-size:20px;
+font-weight:600;
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(68, 68, 68);
+border-style:none;
+}
+
+.tp-caption.viral5 {
+color:rgb(0, 0, 0);
+font-family:"Raleway";
+font-size:20px;
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(68, 68, 68);
+border-style:none;
+}
+
+.tp-caption.modern_medium_fat_white {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:800;
+font-size:24px;
+line-height:20px;
+font-family:"Open Sans", sans-serif;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.viral1-white {
+font-size:36px;
+font-weight:100;
+font-family:"Raleway";
+color:#ffffff;
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.viral5-white {
+font-size:20px;
+font-family:"Raleway";
+color:#ffffff;
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(68, 68, 68);
+border-style:none;
+}
+
+.tp-caption.about-title {
+font-size:50px;
+font-weight:600;
+font-family:Raleway;
+color:rgb(255, 255, 255);
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.cloud-echo-med2 {
+font-size:2em;
+font-weight:100;
+font-family:Raleway;
+color:#ffffff;
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.cloud-echo-med-sm4 {
+font-size:1.3em;
+font-weight:100;
+font-family:Raleway;
+color:#ffffff;
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.cloud-echo-med {
+font-size:40px;
+font-weight:100;
+font-family:Raleway;
+color:rgb(255, 255, 255);
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.cloud-echo-blk-sm3 {
+font-size:12px !important;
+font-weight:500;
+font-family:Raleway;
+color:#000000;
+text-decoration:none;
+text-shadow:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
